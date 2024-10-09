@@ -6,9 +6,9 @@ Sou apaixonada por tecnologia.
   
 Estou em busca da minha primeira oportunidade na área de desenvolvimento Back-End. 
 
-- 🎺 Hobbies: Viajar com a familia, cacorrida.
+- 🎺 Hobbies: Viajar com a familia, corrida.
 
 ### Contato:
 
-<a href="https://www.linkedin.com/in/thiago-medeiros-da-silva-teixeira-b883a8a2/"></a>
+<a></a> "https://www.linkedin.com/in/thiago-medeiros-da-silva-teixeira-b883a8a2/"</a>
   
